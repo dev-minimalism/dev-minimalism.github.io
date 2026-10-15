@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_minimalism_site=self.webpackChunkdev_minimalism_site||[]).push([["342"],{2937(e){e.exports=JSON.parse('{"tags":[{"label":"Site","permalink":"/tags/site","description":"\uC774 \uC0AC\uC774\uD2B8\uC5D0 \uAD00\uD55C \uAE00","count":1}]}')}}]);

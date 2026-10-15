@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dev-minimalism.github.io</id>
+    <title>Dev Minimalism</title>
+    <updated>2026-10-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dev-minimalism.github.io"/>
+    <subtitle>퀀트 트레이딩 시스템과 핀테크 개발 기록</subtitle>
+    <icon>https://dev-minimalism.github.io/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[사이트를 다시 엽니다]]></title>
+        <id>https://dev-minimalism.github.io/reboot</id>
+        <link href="https://dev-minimalism.github.io/reboot"/>
+        <updated>2026-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023년에 Docusaurus 기본 템플릿을 배포만 해 두고 그대로 방치했던 사이트를 정리했습니다.]]></summary>
+        <content type="html"><![CDATA[<p>2023년에 Docusaurus 기본 템플릿을 배포만 해 두고 그대로 방치했던 사이트를 정리했습니다.
+템플릿 흔적을 걷어내고, 블로그를 대문으로 쓰는 단순한 구조로 바꿨습니다.</p>
+<!-- -->
+<p>앞으로 여기에 남길 것들입니다.</p>
+<ul>
+<li class="">퀀트 트레이딩 시스템을 만들면서 겪은 설계와 구현 이야기</li>
+<li class="">전략 백테스트 결과와 거기서 배운 것</li>
+<li class="">한국 주식, 미국 주식, 암호화폐를 하나의 파이프라인으로 다루는 방법</li>
+</ul>
+<p>소스는 별도 저장소에서 관리하고, <code>main</code>에 push하면 GitHub Actions가 빌드해서 이 사이트로 배포합니다.</p>]]></content>
+        <author>
+            <name>Dev Minimalism</name>
+            <uri>https://github.com/dev-minimalism</uri>
+        </author>
+        <category label="Site" term="Site"/>
+    </entry>
+</feed>

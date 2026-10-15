@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_minimalism_site=self.webpackChunkdev_minimalism_site||[]).push([["220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/","blogTitle":"Dev Minimalism","authorsListPath":"/authors"}')}}]);

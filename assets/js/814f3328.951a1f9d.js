@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_minimalism_site=self.webpackChunkdev_minimalism_site||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
